@@ -6,6 +6,7 @@
 // @author       You
 // @match        *://*.zhihu.com/*
 // @grant        none
+// @license      GPLv3
 // ==/UserScript==
 
 (function() {
