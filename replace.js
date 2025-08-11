@@ -14,7 +14,7 @@
     // 配置要替换的图片地址
     const imageReplacements = {
         // 原始地址: 新地址
-        'https://pic1.zhimg.com/v2-5c9b7521eb16507c9d2f747f3a32a813.png': '',
+        'https://pic1.zhimg.com/v2-5c9b7521eb16507c9d2f747f3a32a813.png': 'https://raw.githubusercontent.com/yizhibaize1/zhihusurprise/refs/heads/main/surprise.jpg',
         // 可以添加更多替换规则
         // '原始地址2': '新地址2',
     };
